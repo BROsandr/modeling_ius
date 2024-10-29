@@ -10,6 +10,7 @@ in pkgs.mkShell rec {
     pythonPackages.numpy
     pythonPackages.matplotlib
     pythonPackages.ipykernel
+    pythonPackages.pandas
 
     # A Python interpreter including the 'venv' module is required to bootstrap
     # the environment.
