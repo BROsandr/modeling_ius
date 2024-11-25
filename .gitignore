@@ -1,2 +1,3 @@
 lab1/*.txt
 npins/default.nix
+.venv
